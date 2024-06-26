@@ -8,13 +8,13 @@
 @endsection
 @section('content')
 <section id="listing_img_slider">
-    <div width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image1)}}" class="img-responsive object-cover" alt="image" style="width: 100%" height="100%" >
+    <div class="caros" width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image1)}}" class="img-responsive caro object-cover" alt="image" style="width: 100%" height="100%" >
     </div>
-    <div width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image2)}}" class="img-responsive object-cover" alt="image" style="width: 100%" height="100%" >
+    <div class="caros" width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image2)}}" class="img-responsive caro object-cover" alt="image" style="width: 100%" height="100%" >
     </div>
-    <div width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image3)}}" class="img-responsive object-cover" alt="image" style="width: 100%" height="100%" >
+    <div class="caros" width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image3)}}" class="img-responsive caro object-cover" alt="image" style="width: 100%" height="100%" >
     </div>
-    <div width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image4)}}" class="img-responsive object-cover" alt="image" style="width: 100%" height="100%" >
+    <div class="caros" width="900" height="560"><img src="{{asset('storage/vehicle/'.$vehicle->image4)}}" class="img-responsive caro object-cover" alt="image" style="width: 100%" height="100%" >
     </div>
 
 </section>

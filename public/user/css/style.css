@@ -101,6 +101,19 @@ body {
 	color:#555555;
 }
 
+.caro{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.caros{
+    width: 900px;
+    height: 560px;
+}
+
+
 
 /*----------------------
 	1.1. Typography

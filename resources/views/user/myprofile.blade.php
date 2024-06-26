@@ -11,11 +11,11 @@
         <div class="container">
             <div class="page-header_wrap">
                 <div class="page-heading">
-                    <h1>My Booking</h1>
+                    <h1>Profile Update</h1>
                 </div>
                 <ul class="coustom-breadcrumb">
                     <li><a href="#">Home</a></li>
-                    <li>My Booking</li>
+                    <li>Profile Update</li>
                 </ul>
             </div>
         </div>

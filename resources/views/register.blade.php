@@ -79,7 +79,7 @@
 	</div> --}}
 
 
-    <div class="login-page bk-img " style="background-image: url({{asset('user/img/adminlogin.jpg')}});">
+    <div class="login-page bk-img " style="background-image: url({{asset('user/img/adminlogin.jpg')}}); height:120vh !important;">
 		<div class="form-content">
 			<div class="container">
 				<div class="row">

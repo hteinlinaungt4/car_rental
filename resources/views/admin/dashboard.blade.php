@@ -71,7 +71,7 @@
             <!-- Nav Item - Tables -->
             <li class="nav-item">
                 <a class="nav-link" href="{{route('vehicle.index')}}" >
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-car"></i>
                     <span>Vehicle</span></a>
             </li>
 
