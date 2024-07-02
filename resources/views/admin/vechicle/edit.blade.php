@@ -126,7 +126,7 @@
                             <div class="col-4">
                                 <div class="form-group">
                                     <div class="mb-3">
-                                        <img src="{{asset('storage/vehicle/'.$vehicle->image1)}}" alt="" class=" img-thumbnail" style="width: 300px; height:150px; object-fit:cover;">
+                                        <img src="{{asset('storage/vehicle/'.$vehicle->image3)}}" alt="" class=" img-thumbnail" style="width: 300px; height:150px; object-fit:cover;">
                                         <br>
                                         <lable  style="color: black !important; font-weight:bolder !important;">Image 3 <sup>*</sup> </lable>
                                         <input name="image3" class="form-control @error('image3') is-invalid @enderror" type="file"  >
@@ -141,7 +141,7 @@
                             <div class="col-4">
                                 <div class="form-group">
                                     <div class="mb-3">
-                                        <img src="{{asset('storage/vehicle/'.$vehicle->image1)}}" alt="" class=" img-thumbnail" style="width: 300px; height:150px; object-fit:cover;">
+                                        <img src="{{asset('storage/vehicle/'.$vehicle->image4)}}" alt="" class=" img-thumbnail" style="width: 300px; height:150px; object-fit:cover;">
                                         <br>
                                         <lable  style="color: black !important; font-weight:bolder !important;">Image 4 <sup>*</sup> </lable>
                                         <input name="image4" class="form-control @error('image4') is-invalid @enderror" type="file"  >
